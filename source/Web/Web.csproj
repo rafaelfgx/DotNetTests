@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+    <ItemGroup>
+        <InternalsVisibleTo Include="MSTest" />
+        <InternalsVisibleTo Include="XUnitTest" />
+    </ItemGroup>
+</Project>
